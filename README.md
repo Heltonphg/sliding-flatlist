@@ -18,7 +18,7 @@ Esse repositório visa ampliar meus conhecimentos em UI/UX.
 
 ## :rocket: Tecnologias
 
-As interfaces estão sendo desenvilvidas com:
+Esse projeto foi desenvolvido com:
 
 - [React Native](https://facebook.github.io/react-native/)
 
