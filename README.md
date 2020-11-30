@@ -10,11 +10,7 @@
 </p>
 
 
-<h3 align="center">
-   Projeto em desenvolvimento... ☕
-</h3>
-
-Esse repositório visa ampliar meus conhecimentos em UI/UX.
+Esse repositório visa ampliar meus conhecimentos em UI/UX ☕.
 
 ## :rocket: Tecnologias
 
