@@ -12,21 +12,3 @@
 
 Esse repositório visa ampliar meus conhecimentos em UI/UX ☕.
 
-## :rocket: Tecnologias
-
-Esse projeto foi desenvolvido com:
-
-- [React Native](https://facebook.github.io/react-native/)
-
-<p align="left">
-    <img alt="GoStack" src="https://github.com/Heltonphg/UXReactN/blob/master/rn.png" width="140px" />
-</p>
-
-
-## Interfaces:
-
-<h2> Pages: </h2>
-<p align="center">
-  <img src="">
-  <img src="">
-</p>
